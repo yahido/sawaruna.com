@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    background-color: aqua;
+}
+
+header{
+    position: relative;
+    padding-left: 40px;
+}
+nav{
+    position: absolute;
+    top: 0;
+    right:40px;
+}
